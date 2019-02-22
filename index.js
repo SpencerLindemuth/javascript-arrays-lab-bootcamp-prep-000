@@ -7,7 +7,7 @@ function destructivelyAppendKitten(element){
 }
 
 function destructivelyPrependKitten(element){
-  
+
 }
 
 
