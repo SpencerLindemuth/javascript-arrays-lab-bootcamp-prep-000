@@ -15,7 +15,7 @@ function destructivelyPrependKitten(element){
 
 resetKittens()
 
-function destrucivelyRemoveLastKitten(){
+function destructivelyRemoveLastKitten(){
   kittens.pop()
   return kittens
 }
