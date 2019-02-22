@@ -2,6 +2,21 @@ var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 
 // Add your functions and code here
 function destructivelyAppendKitten(element){
-  addArray.push(element)
-  return addArray
+  kittens.push(element)
+  return kittens
+}
+
+function destructivelyPrependKitten(element){
+  
+}
+
+
+
+
+
+
+
+
+function resetKittens(){
+  var kittens = ["Milo", "Otis", "Garfield"]
 }
