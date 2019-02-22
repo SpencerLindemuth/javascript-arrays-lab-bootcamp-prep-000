@@ -27,6 +27,13 @@ function destructivelyRemoveFirstKitten(){
   return kittens
 }
 
+resetKittens()
+
+function appendKitten(element){
+  var newKitten.slice(element)
+  return newKitten
+}
+
 
 
 
