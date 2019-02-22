@@ -6,9 +6,14 @@ function destructivelyAppendKitten(element){
   return kittens
 }
 
-function destructivelyPrependKitten(element){
+resetKittens()
 
+function destructivelyPrependKitten(element){
+  kittens.unshift(element)
+  return kittens
 }
+
+resetKittens()
 
 
 
